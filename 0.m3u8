@@ -1,9 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:110
-#EXT-X-VERSION:5
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:76, track 1
+#EXTINF:-1,Title1
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:34, track 2
+#EXTINF:-1,Title2
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXT-X-ENDLIST
