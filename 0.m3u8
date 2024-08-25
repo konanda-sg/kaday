@@ -1,2 +1,5 @@
 #EXTM3U
-https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
