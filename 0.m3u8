@@ -1,1 +1,6 @@
-<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"></head><body><video controls="" autoplay="" name="media"><source src="https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8" type="application/vnd.apple.mpegurl"></video></body></html>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:3298
+#EXTINF:10.8,
+https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8
