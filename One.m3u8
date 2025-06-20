@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1564460,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=720x576
-https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w650350299.m3u8
+https://server1.oneplayer.online:11231/mp4/MBxdlJ1/file_720.mp4
