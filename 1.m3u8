@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=232000,RESOLUTION=284x160
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w804928883_b232000_sleng.m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f0a77863b744a9f7763d0a13503015ce&txTime=685b1656
 #EXT-X-STREAM-INF:BANDWIDTH=414000,RESOLUTION=426x240
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w804928883_b414000_sleng.m3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0b43dbf506fbe98b12af88c9ee885226&txTime=685b1656
 #EXT-X-STREAM-INF:BANDWIDTH=628000,RESOLUTION=640x360
 https://www.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=584x480
-http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1750781957-0-0-e55907fbab9bd8dfbb892f7fd6fdd1ca
 #EXT-X-STREAM-INF:BANDWIDTH=1492000,RESOLUTION=1280x720
-https://server1.oneplayer.online:11231/mp4/MBxdlJ1/file_720.mp4
+https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1750781957-0-0-7dba0a091d2991f67cc410cb12a89968
