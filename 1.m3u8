@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=232000,RESOLUTION=284x160, sd
+#EXT-X-STREAM-INF:BANDWIDTH=232000,RESOLUTION=284x160, group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f0a77863b744a9f7763d0a13503015ce&txTime=685b1656
-#EXT-X-STREAM-INF:BANDWIDTH=414000,RESOLUTION=426x240, low
+#EXT-X-STREAM-INF:BANDWIDTH=414000,RESOLUTION=426x240, group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 2HD
 https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0b43dbf506fbe98b12af88c9ee885226&txTime=685b1656
-#EXT-X-STREAM-INF:BANDWIDTH=628000,RESOLUTION=640x360, md
+#EXT-X-STREAM-INF:BANDWIDTH=628000,RESOLUTION=640x360, group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 3HD
 https://www.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=584x480, hd
+#EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=584x480, group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 3HD
 https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1750781957-0-0-e55907fbab9bd8dfbb892f7fd6fdd1ca
-#EXT-X-STREAM-INF:BANDWIDTH=1492000,RESOLUTION=1280x720, fhd
+#EXT-X-STREAM-INF:BANDWIDTH=1492000,RESOLUTION=1280x720, group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 4HD
 https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1750781957-0-0-7dba0a091d2991f67cc410cb12a89968
